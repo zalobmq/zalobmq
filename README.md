@@ -2,7 +2,7 @@
   <img src="Banner-GonzaloBMQ.png" height="200"/>
 </p>
 <hr>
-<h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Soy Gonzalo
+<h1 align="center">Bienvenid@ a mi perfil <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 </h1>
 <h3 align="center">💻 Desarrollador de Aplicaciones Multiplataforma & Web<h3>
 
