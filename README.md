@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="space.jpg" height="200"/>
+  <img src="Banner-GonzaloBMQ.jpg" height="200"/>
 </p>
 <hr>
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Soy Gonzalo
 </h1>
-<h3 align="center">💻 Desarrollador de Aplicaciones Multiplataforma<h3>
-<h3 align="center">📚 Estudiante de Desarrollo Web<h3>
+<h3 align="center">💻 Desarrollador de Aplicaciones Multiplataforma & Web<h3>
+
 
 ### 🔧 Tecnologias y Aptitudes 🔧
 
