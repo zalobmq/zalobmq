@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Banner-GonzaloBMQ.jpg" height="200"/>
+  <img src="Banner-GonzaloBMQ.png" height="200"/>
 </p>
 <hr>
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Soy Gonzalo
