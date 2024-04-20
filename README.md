@@ -25,7 +25,6 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 	
 ![Angular badge](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) 
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 
